@@ -1,0 +1,4 @@
+\\10.204.16.28\home\DCE是平时需要上传文件的cmd命令
+10.40.136.36:25050 是ThreatQuery那个项目
+http://10.40.136.36:25040/是sample_manual_chk那个项目
+http://ti-ipattern.sdi.trendnet.org/是mobile那边做的比较好的ThreatQuery那个项目
